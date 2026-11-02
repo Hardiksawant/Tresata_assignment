@@ -33,8 +33,8 @@ The deterministic audit kernel and the 12-case benchmark suite run out-of-the-bo
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/vouchgraph-43b-tresata.git
-cd vouchgraph-43b-tresata
+git clone https://github.com/Hardiksawant/Tresata_assignment.git
+cd Tresata_assignment
 
 # Run the 12-case benchmark suite and print the JSON audit trace
 python3 vouchgraph_43b_prototype.py
